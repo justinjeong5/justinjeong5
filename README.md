@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinjeong5)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinjeong5&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justinjeong5)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shinywaterjeong)
