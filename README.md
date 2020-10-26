@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjustinjeong5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinjeong5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinjeong5&layout=compact)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justinjeong5)
