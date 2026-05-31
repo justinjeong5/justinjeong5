@@ -42,6 +42,16 @@
 
 ---
 
+### 📈 Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/justinjeong5/justinjeong5/main/github-metrics.svg)
+
+</div>
+
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
