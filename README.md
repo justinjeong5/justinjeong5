@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=Web+Frontend+Engineer+%40+Buzzvil;React+%E2%80%A2+Next.js+%E2%80%A2+Vue+%E2%80%A2+TypeScript;Building+with+AI-assisted+workflows)](https://github.com/justinjeong5)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=githubpages&logoColor=white)](https://justinjeong5.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justin.jeong@buzzvil.com)
+
 </div>
 
 ---
@@ -13,7 +16,7 @@
 - 🔭 **Buzzvil**에서 광고·리워드 플랫폼의 프론트엔드를 개발합니다
 - 🧩 **마이크로 프론트엔드**(Module Federation), 모노레포, 디자인 시스템에 관심이 많습니다
 - 🤖 **AI 멀티에이전트 개발 워크플로우**를 직접 설계·운영합니다 — 일하는 방식 자체를 코드로 자동화합니다
-- 📫 닿고 싶다면 — justin.jeong@buzzvil.com
+- 🌐 작업물과 글은 [**justinjeong5.github.io**](https://justinjeong5.github.io)에 정리하고 있습니다
 
 ---
 
@@ -44,7 +47,11 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=justinjeong5&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=justinjeong5&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=justinjeong5&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=justinjeong5&theme=tokyonight&hide_border=true">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justinjeong5/justinjeong5/output/github-contribution-grid-snake-dark.svg">
