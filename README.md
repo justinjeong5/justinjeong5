@@ -42,16 +42,6 @@
 
 ---
 
-### 📈 Metrics
-
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/justinjeong5/justinjeong5/main/github-metrics.svg)
-
-</div>
-
----
-
 ### 📊 GitHub Activity
 
 <div align="center">
@@ -67,6 +57,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justinjeong5/justinjeong5/output/github-contribution-grid-snake.svg">
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/justinjeong5/justinjeong5/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+</div>
+
+---
+
+### 📈 Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/justinjeong5/justinjeong5/main/github-metrics.svg)
 
 </div>
 
