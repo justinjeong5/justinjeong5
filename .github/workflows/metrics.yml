@@ -29,6 +29,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           extras_css: |
-            section { margin: 4px 0 !important }
-            .field { margin-bottom: 4px !important }
-            h2 { margin: 2px 0 !important }
+            .margin-bottom { margin-bottom: 6px !important }
+            .field { margin-bottom: 1px !important }
+            .bar { margin: 1px 0 !important }
