@@ -1,0 +1,20 @@
+# Backup files
+*.bak
+*.orig
+*~
+
+# Secrets & credentials
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
