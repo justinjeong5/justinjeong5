@@ -11,12 +11,19 @@
 
 ### 👋 About Me
 
-사용자가 마주하는 화면부터 그 뒤의 개발 경험(DX)까지 설계하는 프론트엔드 엔지니어입니다.
+사용자가 마주하는 화면부터 그 뒤의 개발 경험(DX)까지 설계하는 프론트엔드 엔지니어입니다. 인앱·WebView처럼 제어하기 어려운 환경에서 사용자 경험을 다듬고, 반복되는 문제를 테스트와 개발 도구 개선으로 연결합니다.
 
 - 🔭 **Buzzvil**에서 광고·리워드 플랫폼의 프론트엔드를 개발합니다
-- 🧩 **마이크로 프론트엔드**(Module Federation), 모노레포, 디자인 시스템에 관심이 많습니다
+- 🧩 **모노레포·빌드·배포 구조**와 제품 안정성에 관심이 많습니다
 - 🤖 **AI 멀티에이전트 개발 워크플로우**를 직접 설계·운영합니다 — 일하는 방식 자체를 코드로 자동화합니다
 - 🌐 작업물과 글은 [**justinjeong5.github.io**](https://justinjeong5.github.io)에 정리하고 있습니다
+
+---
+
+### ✍️ Writing
+
+- [**영상 최적화의 대상은 영상만이 아니었다**](https://tech.buzzvil.com/blog/playhub-webview-video-optimization) — WebView에서 영상 경험을 개선하며 화면 전체의 동작을 함께 살펴본 이야기
+- [**프리로드 API 없는 광고 SDK에 프리로딩을 적용하며 배운 것**](https://tech.buzzvil.com/blog/playhub-ad-preloading) — 제어하기 어려운 외부 SDK의 로딩을 제품 경험 안에서 다룬 이야기
 
 ---
 
@@ -69,10 +76,3 @@
 ![Metrics](https://raw.githubusercontent.com/justinjeong5/justinjeong5/main/github-metrics.svg)
 
 </div>
-
-<!--
-  FE 차별화 자리 — 라이브 데모/작품 링크를 채우면 효과가 큽니다. 예시:
-  ### 🎨 Selected Work
-  - [movie-trends](https://github.com/justinjeong5/movie-trends) — Vue 기반 영화 트렌드 앱 · [Live Demo](배포URL)
-  - [mfp](https://github.com/justinjeong5/mfp) — Webpack 5 Module Federation 마이크로 프론트엔드
--->
